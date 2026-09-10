@@ -2,6 +2,8 @@
 
 *L. Bont, P. Moll, C. Knobloch*
 
+
+
 ## Einführung
 Catensys dient der Berechnung und Analyse gespannter Drahtseile und Seillinien, insbesondere im Bereich beidseitig fix verankerter Seilbringungssysteme für die Holz- oder Materialbringung. Die Anwendung unterstützt bei der geländeabhängigen technischen Planung, Abschätzung und Kontrolle von Seilverläufen unter definierten Lastannahmen.
 Seilgestützte Verfahren bilden das Rückgrat der Logistik für Holz oder Baumaterialien in unwegsamem Gelände. In Mitteleuropa ist der Einsatz von Tragseilsystemen mit vorgespannten, beidseitig fest verankerten Tragseilen sowie Mehrfeldkonfigurationen mit Zwischenstützen weit verbreitet. Für einen sicheren und wirtschaftlichen Aufbau des Seiltrassenbetriebs ist es unerlässlich, die Eigenschaften des Tragseils (z. B. Lastpfad, Zugkräfte) zu bestimmen und zu berechnen. Diese Aufgabe ist anspruchsvoll, da sie das nichtlineare Verhalten der Seilkonstruktion unter Last berücksichtigen und alle wesentlichen physikalischen Effekte einbeziehen muss.
