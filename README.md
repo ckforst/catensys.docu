@@ -41,9 +41,10 @@ Unter anderem:
 Die jeweiligen Lizenzbestimmungen liegen der Software bei - siehe third_party_licenses.txt
 
 ## Download und Start der Software SeilAPP
+![Catensys_UI](catensys_ui.jpg)
+
 Catensys kann von diesem Link aus verwendet werden: 
 [Download](https://github.com/ckforst/SeilApp)
-![Catensys_UI](catensys_ui.jpg)
  
 ## Struktur der Software SeilApp
 Die Software ist in Tabs gegliedert, die in logischer Reihenfolge durchschritten, aber auch beliebig untereinander befüllt und modifiziert werden können. Jedoch ist für eine Berechnung die vollständige Eingabe der für die Kalkulation benötigten Parameter vonnöten.
