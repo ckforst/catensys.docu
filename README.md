@@ -2,7 +2,7 @@
 
 *L. Bont, P. Moll, C. Knobloch*
 
-
+![Alternativtext](titelbild.jpg)
 
 ## Einführung
 Catensys dient der Berechnung und Analyse gespannter Drahtseile und Seillinien, insbesondere im Bereich beidseitig fix verankerter Seilbringungssysteme für die Holz- oder Materialbringung. Die Anwendung unterstützt bei der geländeabhängigen technischen Planung, Abschätzung und Kontrolle von Seilverläufen unter definierten Lastannahmen.
