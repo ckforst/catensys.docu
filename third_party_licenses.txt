@@ -1,0 +1,120 @@
+THIRD-PARTY LICENSES
+
+====================
+
+
+
+This software includes third-party components that are licensed under
+
+their respective open source licenses.
+
+
+
+----------------------------------------------------------------------
+
+Python
+
+----------------------------------------------------------------------
+
+
+
+Project: Python
+
+Copyright: Python Software Foundation
+
+License: Python Software Foundation License (PSF)
+
+
+https://www.python.org/
+
+
+
+----------------------------------------------------------------------
+
+Kivy
+
+----------------------------------------------------------------------
+
+
+
+Project: Kivy
+
+Copyright: Kivy Organization and contributors
+
+License: MIT License
+
+https://kivy.org/
+
+
+
+----------------------------------------------------------------------
+
+NumPy
+
+----------------------------------------------------------------------
+
+
+
+Project: NumPy
+
+Copyright: NumPy Developers
+
+License: BSD 3-Clause License
+
+
+https://numpy.org/
+
+
+
+----------------------------------------------------------------------
+
+SciPy
+
+----------------------------------------------------------------------
+
+
+
+Project: SciPy
+
+Copyright: SciPy Developers
+
+License: BSD 3-Clause License
+
+
+https://scipy.org/
+
+
+
+----------------------------------------------------------------------
+
+Matplotlib
+
+----------------------------------------------------------------------
+
+
+
+Project: Matplotlib
+
+Copyright: Matplotlib Development Team
+
+License: Matplotlib License (BSD-style)
+
+
+https://matplotlib.org/
+
+
+
+----------------------------------------------------------------------
+
+License Information
+
+----------------------------------------------------------------------
+
+
+
+Copies of the applicable license texts can be obtained from the
+
+respective project websites and source repositories.
+
+
+This application itself is licensed under the Apache License 2.0.
